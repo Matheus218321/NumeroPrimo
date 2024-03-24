@@ -1,0 +1,14 @@
+C:\Aplicativos De Console\Numero Primo\Numero Primo\bin\Debug\net8.0\Numero Primo.exe
+C:\Aplicativos De Console\Numero Primo\Numero Primo\bin\Debug\net8.0\Numero Primo.deps.json
+C:\Aplicativos De Console\Numero Primo\Numero Primo\bin\Debug\net8.0\Numero Primo.runtimeconfig.json
+C:\Aplicativos De Console\Numero Primo\Numero Primo\bin\Debug\net8.0\Numero Primo.dll
+C:\Aplicativos De Console\Numero Primo\Numero Primo\bin\Debug\net8.0\Numero Primo.pdb
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.AssemblyInfoInputs.cache
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.AssemblyInfo.cs
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.csproj.CoreCompileInputs.cache
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.dll
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\refint\Numero Primo.dll
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.pdb
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\Numero Primo.genruntimeconfig.cache
+C:\Aplicativos De Console\Numero Primo\Numero Primo\obj\Debug\net8.0\ref\Numero Primo.dll
